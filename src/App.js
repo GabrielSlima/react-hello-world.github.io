@@ -9,7 +9,6 @@ function App() {
         <p>
           Hello world!
         </p>
-        </a>
       </header>
     </div>
   );
